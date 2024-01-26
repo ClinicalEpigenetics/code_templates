@@ -1,0 +1,16 @@
+[Header],,,,,,,
+Investigator Name,David Martino,,,,,,
+Project Name,CAGRF230615315_EPIC_Tick_Study,,,,,,
+Experiment Name,CAGRF230615315_EPIC_Tick_Study,,,,,,
+Date,27-Jul-23,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_Name,Sex,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+AHL_T0,NA,A01,1,Group1,,207505150017,R01C01
+AHL_T1,NA,B01,1,Group1,,207505150017,R02C01
+AHL_T2,NA,C01,1,Group1,,207505150017,R03C01
+AHL_T2v2,NA,D01,1,Group1,,207505150017,R04C01
+AHE_T0,NA,E01,1,Group1,,207505150017,R05C01
+AHE_T1,NA,F01,1,Group1,,207505150017,R06C01
+AHE_T2,NA,G01,1,Group1,,207505150017,R07C01
+AHP_T0_2,NA,D03,1,Group1,,207505150017,R08C01
